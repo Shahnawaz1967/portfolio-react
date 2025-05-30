@@ -144,8 +144,8 @@ const Home = () => {
             />
 
             <motion.img
-              src="/placeholder.svg?height=400&width=400"
-              alt="Your Name"
+              src="/formal.jpg"
+              alt="Shahnawz image"
               className="w-64 h-64 md:w-80 md:h-80 rounded-full object-cover border-4 border-white dark:border-gray-700 shadow-2xl relative z-10"
               whileHover={{ scale: 1.05 }}
               transition={{ type: "spring", stiffness: 300 }}
