@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A modern, responsive portfolio website built with React, Node.js, Express, and Tailwind CSS.
+A personal portfolio website built using React for structure, Tailwind CSS for styling, Framer Motion for smooth animations, and Nodemailer to handle contact form submissions via email.
 
 ## Features
 
@@ -10,22 +10,6 @@ A modern, responsive portfolio website built with React, Node.js, Express, and T
 - Project showcase
 - Skills and about sections
 - Resume download functionality
-
-## Project Structure
-
-\`\`\`
-portfolio/
-├── client/               # React frontend
-│   ├── public/           # Static files
-│   └── src/              # React source code
-│       ├── components/   # Reusable components
-│       └── sections/     # Page sections
-└── server/               # Node.js backend
-    ├── server.js         # Express server
-    └── .env              # Environment variables
-\`\`\`
-
-## Setup Instructions
 
 ### Prerequisites
 
