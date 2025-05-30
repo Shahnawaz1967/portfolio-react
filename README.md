@@ -20,7 +20,7 @@ A personal portfolio website built using React for structure, Tailwind CSS for s
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/Shahnawaz1967/portfolio-react.git
 cd portfolio
 \`\`\`
 
