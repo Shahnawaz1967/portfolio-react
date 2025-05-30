@@ -135,7 +135,7 @@ function App() {
                 <Mail size={24} />
               </motion.a>
             </div>
-            <p>© {new Date().getFullYear()} Your Name. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} Shahnawaz. All rights reserved.</p>
           </div>
         </footer>
 
