@@ -82,7 +82,7 @@ const Home = () => {
 
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1.2 }}>
             <motion.a
-              href="/resume.pdf"
+              href="/Md_Shahnawaz_FSWD.pdf"
               download
               className="bg-gradient-to-r from-blue-600 to-purple-600 text-white px-6 py-3 rounded-lg inline-flex items-center hover:from-blue-700 hover:to-purple-700 transition-all shadow-lg"
               whileHover={{ scale: 1.05, y: -2 }}
