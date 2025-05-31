@@ -41,7 +41,7 @@ const Home = () => {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.8 }}
           >
-            I build fast and user-friendly websites using tools like Next.js, React, Node.js, and Express. I work with databases like PostgreSQL and MongoDB, and I also use Redis and AWS to make websites run better and stay online. I handle both frontend and the behind-the-scenes work backend to create smooth and reliable web apps
+            I build user-friendly websites using tools like Next.js, React, Node.js, and Express. I work with databases like PostgreSQL and MongoDB, and I also use Redis and AWS to make websites run better and stay online. I handle both frontend and the behind-the-scenes work backend to create smooth and reliable web apps
           </motion.p>
 
           <motion.div
