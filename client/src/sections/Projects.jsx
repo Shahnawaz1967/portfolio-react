@@ -64,6 +64,15 @@ const Projects = () => {
       github: "https://github.com/Shahnawaz1967/nextjs-portfolio1.git",
       demo: "https://www.shahnawaz.tech/",
     },
+    {
+      id: 7,
+      title: "netflix-clone",
+      description: "This application is created using the MERN stack, which consists of MongoDB, Express.js, React, and Node.js. The purpose of this project is to give users an experience similar to using Netflix, where they can browse, search, and watch a variety of movies and TV shows.",
+         image: "/netflix-clone.png",
+      technologies: ["React", "Node.js", "Express", "MongoDB", "TMDB API"],
+      github: "https://github.com/Shahnawaz1967/netflix-clone.git",
+      demo: "https://netflix-clone-1-gquj.onrender.com/",
+    },
     
   ]
 
