@@ -55,7 +55,7 @@ const Contact = ({ displayToast }) => {
     {
       icon: <MapPin />,
       title: "Location",
-      details: "Bhopal, India",
+      details: "Delhi, India",
       color: "from-blue-500 to-cyan-500",
     },
     {
